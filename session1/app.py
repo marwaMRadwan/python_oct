@@ -179,9 +179,23 @@ chinese_zodiac = ["Rat", "Ox","Tiger", "Rabbit", "Dragon", "Snake", "Horse","Goa
 # print(name)
 
 
-index =1 
-while index < 10 :
-    print(index)
-    index+=2
-else:
-    print("ended")
+# index =1 
+# while index < 10 :
+#     print(index)
+#     index+=2
+# else:
+#     print("ended")
+
+
+# num = -5
+# print(abs(num))
+# num=1.251515151888555
+# print(round(num,2))
+
+import math
+
+num = 5.7
+print(math.ceil(num))
+print(math.floor(num))
+print(math.pow(2,3))
+print(math.sqrt(9))
