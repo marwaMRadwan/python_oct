@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 28,
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "age": 34,
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "name": "Charlie Nguyen",
+    "email": "charlie.nguyen@example.com",
+    "age": 25,
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "Dana Patel",
+    "email": "dana.patel@example.com",
+    "age": 41,
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Ethan Garcia",
+    "email": "ethan.garcia@example.com",
+    "age": 30,
+    "isActive": false
+  }
+]
